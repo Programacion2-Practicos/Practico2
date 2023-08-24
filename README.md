@@ -1,4 +1,4 @@
-## PRACTICO 2 2022
+## PRACTICO 2
 
 Hacer un fork a los siguientes link y realizar lo que allí se pide:
 
@@ -9,7 +9,7 @@ https://replit.com/@utu_liceo/Ejer1-Auto#Z_README.md
 https://replit.com/@utu_liceo/Ejer2-Empleado#Z_README.md
 
 
-## PRACTICO 2B 2022
+## PRACTICO 2B
 
 ### 1) Utilizando la clase Electrodomestico del practico 2 
 
