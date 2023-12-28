@@ -1,6 +1,19 @@
 ## PRACTICO 2
 
-Hacer un fork a los siguientes link y realizar lo que allí se pide:
+1)a) Desarrollar la clase **Electrodomestico** (que se encuentra en el paquete logica) con las siguientes características:
+
+- Atributos: nombre (String), marca (String) y consumo (double)
+- constructores: Por defecto y Específico
+- getters & setters
+- toString
+
+b) En la clase **Principal** (que se encuentra en el paquete consola):
+
+- Crear dos Electrodomésticos e1 y e2 con el constructor por defecto
+- Los datos de e1 cargarlos usando los setter (asignando usted los datos).
+- Los datos de de e2 cargarlos usando los setter pero desde el teclado.
+- Mostrar en pantalla el nombre de e1.
+- Mostrar en pantalla, todos los datos de e2 usando un solo método.
 
 https://replit.com/@utu_liceo/Ejer3-Electrodomestico#Z_README.md
 
