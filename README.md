@@ -92,4 +92,4 @@ Enviar los link de sus replit o github para corregir
 
 NO ENVIAR CAPTURAS DE PANTALLA
 
-**OBSERVACIÓN**: Este repositorio se encuentra conectado con el replit aquí: https://replit.com/@utu_liceo/Practico2-2022#README.md
+**OBSERVACIÓN**: 
