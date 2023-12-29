@@ -15,17 +15,41 @@ b) Desarrollar  la clase **PrincipalElectro** (en el paquete consola):
 - Mostrar en pantalla el nombre de e1.
 - Mostrar en pantalla, todos los datos de e2 usando un solo método.
 
+2) a) Desarrollar la clase **Auto** (en el paquete logica) con las siguientes características:
 
-https://replit.com/@utu_liceo/Ejer1-Auto#Z_README.md
+- Atributos: marca (String), velMax (double), potencia (int) y precio (double)
+- constructores: Por defecto y Específico
+- getters & setters
+- toString
 
-https://replit.com/@utu_liceo/Ejer2-Empleado#Z_README.md
+b) Desarrollar  la clase **PrincipalAuto** ( en el paquete consola): 
+- Crear dos Autos  a1 y a2 con el constructor por defecto
+- Los datos de a1 cargarlos usando los setter (asignando usted los datos).
+- Los datos de de a2 cargarlos usando los setter pero desde el teclado.
+- Mostrar en pantalla el precio de a1.
+- Mostrar en pantalla, todos los datos de a2 usando un solo método.
+
+3) a) Desarrollar la clase **Empleado** (en el paquete logica) con las siguientes características:
+
+- Atributos: cedula (String), nombre (String), antiguedad (int) y sueldo (double)
+- constructores: Por defecto y Específico
+- getters & setters
+- toString
+
+b) En la clase **PrincipalEmpleado** ( en el paquete consola):
+
+- Crear el Empleado e1 con el constructor específico, Los datos de e1 son: cedula: 1111, nombre: Pedro, antiguedad: 4 sueldo: 25000
+
+- Crear el Empleado e2 con el constructor por defecto.
+
+- Cargue los datos de e2 desde el teclado (invente usted los datos)
+
+- Muestre los datos de los dos empleados
 
 
 ## PRACTICO 2B
 
 ### 1) Utilizando la clase Electrodomestico del practico 2 
-
-https://replit.com/@utu_liceo/Ejer3-Electrodomestico#Z_README.md
 
 y teniendo en cuenta el Diagrama de Clase.
 
@@ -45,7 +69,6 @@ En la clase **Principal** deberá crear dos objetos de tipo electrodomestico, un
 
 ### 2) Utilizando la clase Empleado del practico 2 
 
- https://replit.com/@utu_liceo/Ejer2-Empleado#Z_README.md
 
 y teniendo en cuenta el Diagrama de Clase.
 
@@ -100,8 +123,8 @@ En la clase **Principal** debe imprimir, utilizando un for, las 48 cartas.
 
  
 
-Enviar los link de sus replit o github para corregir
+Enviar los link de sus github para corregir
 
-NO ENVIAR CAPTURAS DE PANTALLA
+NO ENVIAR CAPTURAS DE PANTALLA NI archivos RAR ni ZIP
 
 **OBSERVACIÓN**: 
