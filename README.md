@@ -50,7 +50,7 @@
 ## Enviar los link de sus github para corregir
 ## NO ENVIAR CAPTURAS DE PANTALLA NI archivos RAR ni ZIP
 
-.................................................................
+..........................................
 
 
 ## PRACTICO 2B
