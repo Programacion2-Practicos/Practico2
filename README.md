@@ -46,6 +46,10 @@ b) En la clase **PrincipalEmpleado** ( en el paquete consola):
 
 - Muestre los datos de los dos empleados
 
+## Enviar los link de sus github para corregir
+## NO ENVIAR CAPTURAS DE PANTALLA NI archivos RAR ni ZIP
+...........................................................................................................................
+
 
 ## PRACTICO 2B
 
@@ -55,7 +59,7 @@ y teniendo en cuenta el Diagrama de Clase.
 
 ![Clase Electrodomestico](./Electrodomestico.png)   
 
- Se pide agregar a la clase Electrodomestico el atributo costo y el método específico respetando el diagrama, es decir, NO pueden agregar cosas que no vea en el diagrama.
+ Se pide agregar a la clase **Electrodomestico** el atributo costo y el método específico respetando el diagrama, es decir, NO pueden agregar cosas que no vea en el diagrama.
 
 Los métodos hacen lo siguiente:
 
@@ -65,7 +69,7 @@ Los métodos hacen lo siguiente:
 
  
 
-En la clase **Principal** deberá crear dos objetos de tipo electrodomestico, uno con todos los valores cargados con el constructor específico, otro con los métodos setters. Puede cargar los atributos con valores constantes, tal como se realizó en el teórico.
+En la clase **PrincipalElectrodomestico** deberá crear dos objetos de tipo Electrodomestico, uno con todos los valores cargados con el constructor específico, otro con los métodos setters. Puede cargar los atributos con valores constantes, tal como se realizó en el teórico.
 
 ### 2) Utilizando la clase Empleado del practico 2 
 
@@ -121,10 +125,6 @@ Además se pide:
 
 En la clase **Principal** debe imprimir, utilizando un for, las 48 cartas.
 
- 
+## Enviar los link de sus github para corregir
+## NO ENVIAR CAPTURAS DE PANTALLA NI archivos RAR ni ZIP
 
-Enviar los link de sus github para corregir
-
-NO ENVIAR CAPTURAS DE PANTALLA NI archivos RAR ni ZIP
-
-**OBSERVACIÓN**: 
