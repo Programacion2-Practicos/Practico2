@@ -44,7 +44,7 @@ b) En la clase **PrincipalEmpleado** ( en el paquete consola):
 
 - Cargue los datos de e2 desde el teclado (invente usted los datos)
 
-- Muestre los datos de los dos empleados
+- Muestre los datos de los dos empleados  
 
 ## Enviar los link de sus github para corregir
 ## NO ENVIAR CAPTURAS DE PANTALLA NI archivos RAR ni ZIP
