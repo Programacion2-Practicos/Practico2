@@ -1,13 +1,13 @@
 ## PRACTICO 2
 ### Crear dos paquetes: *logica* y *consola* 
-1) a) Desarrollar la clase **Electrodomestico** ( en el paquete logica) con las siguientes características:
+### 1) a) Desarrollar la clase **Electrodomestico** ( en el paquete logica) con las siguientes características:
 
 - Atributos: nombre (String), marca (String) y consumo (double)
 - constructores: Por defecto y Específico
 - getters & setters
 - toString
 
-b) Desarrollar  la clase **PrincipalElectro** (en el paquete consola):
+### b) Desarrollar  la clase **PrincipalElectro** (en el paquete consola):
 
 - Crear dos Electrodomésticos e1 y e2 con el constructor por defecto
 - Los datos de e1 cargarlos usando los setter (asignando usted los datos).
@@ -15,28 +15,28 @@ b) Desarrollar  la clase **PrincipalElectro** (en el paquete consola):
 - Mostrar en pantalla el nombre de e1.
 - Mostrar en pantalla, todos los datos de e2 usando un solo método.
 
-2) a) Desarrollar la clase **Auto** (en el paquete logica) con las siguientes características:
+### 2) a) Desarrollar la clase **Auto** (en el paquete logica) con las siguientes características:
 
 - Atributos: marca (String), velMax (double), potencia (int) y precio (double)
 - constructores: Por defecto y Específico
 - getters & setters
 - toString
 
-b) Desarrollar  la clase **PrincipalAuto** ( en el paquete consola): 
+### b) Desarrollar  la clase **PrincipalAuto** ( en el paquete consola): 
 - Crear dos Autos  a1 y a2 con el constructor por defecto
 - Los datos de a1 cargarlos usando los setter (asignando usted los datos).
 - Los datos de de a2 cargarlos usando los setter pero desde el teclado.
 - Mostrar en pantalla el precio de a1.
 - Mostrar en pantalla, todos los datos de a2 usando un solo método.
 
-3) a) Desarrollar la clase **Empleado** (en el paquete logica) con las siguientes características:
+### 3) a) Desarrollar la clase **Empleado** (en el paquete logica) con las siguientes características:
 
 - Atributos: cedula (String), nombre (String), antiguedad (int) y sueldo (double)
 - constructores: Por defecto y Específico
 - getters & setters
 - toString
 
-b) En la clase **PrincipalEmpleado** ( en el paquete consola):
+### b) En la clase **PrincipalEmpleado** ( en el paquete consola):
 
 - Crear el Empleado e1 con el constructor específico, Los datos de e1 son: cedula: 1111, nombre: Pedro, antiguedad: 4 sueldo: 25000
 
@@ -46,9 +46,11 @@ b) En la clase **PrincipalEmpleado** ( en el paquete consola):
 
 - Muestre los datos de los dos empleados  
 
+
 ## Enviar los link de sus github para corregir
 ## NO ENVIAR CAPTURAS DE PANTALLA NI archivos RAR ni ZIP
-...........................................................................................................................
+
+.................................................................
 
 
 ## PRACTICO 2B
