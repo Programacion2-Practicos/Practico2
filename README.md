@@ -53,9 +53,7 @@
 
 ## PRACTICO 2B
 
-### 1) Utilizando la clase Electrodomestico del practico 2 
-
-y teniendo en cuenta el Diagrama de Clase.
+### 1) Utilizando la clase Electrodomestico del practico 2 y teniendo en cuenta el Diagrama de Clase.
 
 ![Clase Electrodomestico](./Electrodomestico.png)   
 
@@ -71,10 +69,7 @@ Los métodos hacen lo siguiente:
 
 En la clase **PrincipalElectrodomestico** deberá crear dos objetos de tipo Electrodomestico, uno con todos los valores cargados con el constructor específico, otro con los métodos setters. Puede cargar los atributos con valores constantes, tal como se realizó en el teórico.
 
-### 2) Utilizando la clase Empleado del practico 2 
-
-
-y teniendo en cuenta el Diagrama de Clase.
+### 2) Utilizando la clase Empleado del practico 2 y teniendo en cuenta el Diagrama de Clase.
 
 ![Clase Empleado](./Empleado.png)   
 
